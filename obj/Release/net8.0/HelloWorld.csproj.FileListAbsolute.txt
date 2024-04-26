@@ -1,0 +1,14 @@
+C:\Users\mayaj\source\repos\HelloWorld\bin\Release\net8.0\HelloWorld.exe
+C:\Users\mayaj\source\repos\HelloWorld\bin\Release\net8.0\HelloWorld.deps.json
+C:\Users\mayaj\source\repos\HelloWorld\bin\Release\net8.0\HelloWorld.runtimeconfig.json
+C:\Users\mayaj\source\repos\HelloWorld\bin\Release\net8.0\HelloWorld.dll
+C:\Users\mayaj\source\repos\HelloWorld\bin\Release\net8.0\HelloWorld.pdb
+C:\Users\mayaj\source\repos\HelloWorld\obj\Release\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayaj\source\repos\HelloWorld\obj\Release\net8.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\mayaj\source\repos\HelloWorld\obj\Release\net8.0\HelloWorld.AssemblyInfo.cs
+C:\Users\mayaj\source\repos\HelloWorld\obj\Release\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\mayaj\source\repos\HelloWorld\obj\Release\net8.0\HelloWorld.dll
+C:\Users\mayaj\source\repos\HelloWorld\obj\Release\net8.0\refint\HelloWorld.dll
+C:\Users\mayaj\source\repos\HelloWorld\obj\Release\net8.0\HelloWorld.pdb
+C:\Users\mayaj\source\repos\HelloWorld\obj\Release\net8.0\HelloWorld.genruntimeconfig.cache
+C:\Users\mayaj\source\repos\HelloWorld\obj\Release\net8.0\ref\HelloWorld.dll
